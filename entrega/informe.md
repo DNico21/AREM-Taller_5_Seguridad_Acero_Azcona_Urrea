@@ -41,11 +41,6 @@ Principios de seguridad STRIDE y buenas prácticas en protección de datos en el
 El modelo STRIDE es un marco de referencia ampliamente utilizado para identificar amenazas de seguridad en sistemas de información. Clasifica los riesgos en seis categorías: Spoofing, Tampering, Repudiation, Information Disclosure, Denial of Service y Elevation of Privilege, permitiendo analizar de forma estructurada las vulnerabilidades en cada componente del sistema.
 
 En el contexto del sector salud, la seguridad de la información es crítica debido a la sensibilidad de los datos clínicos. Normativas como las relacionadas con protección de datos personales (Habeas Data) y estándares internacionales como ISO 27001 recomiendan implementar controles como cifrado de datos, autenticación robusta, control de accesos y monitoreo continuo. Estas prácticas se relacionan directamente con el taller al permitir proponer mitigaciones adecuadas para los riesgos identificados en Cemedica IPS.
-
-## 📚 Referencias
-- [1] OWASP Foundation. *OWASP Top 10 Web Application Security Risks*. 2021. https://owasp.org/www-project-top-ten/
-- [2] ISO/IEC. *ISO/IEC 27001 Information Security Management*. 2013. https://www.iso.org/isoiec-27001-information-security.html
-
 ---
 
 _Este documento hace parte de la entrega del taller 5 del curso AREM (Arquitectura Empresarial) - Universidad de La Sabana._
